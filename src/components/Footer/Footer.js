@@ -78,9 +78,8 @@ const Footer = () => {
             <SocialMedia>
                 <SocialMediaWrap>
                     <SocialLogo to='/'>
-                        <SocialIcon>
+                        <SocialIcon />
                             ULTRA
-                        </SocialIcon>
                     </SocialLogo>
                     <WebsiteRights>ULTRA © 2020</WebsiteRights>
                     <SocialIcons>
