@@ -63,11 +63,7 @@ const Navbar = () => {
                                 </NavItem>
                                 <NavItemBtn>
                                     {button ? (
-<<<<<<< HEAD
                                         <NavBtnLink to='#'>
-=======
-                                        <NavBtnLink to='/sign-up'>
->>>>>>> 0daaa92b78e13ce4cc42f79ca7de2cb33766541f
                                             <Button primary>
                                                 SIGN UP
                                                 </Button>
